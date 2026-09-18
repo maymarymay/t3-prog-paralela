@@ -1,7 +1,7 @@
 # Objetivos
-Implementar uma aplicação em CUDA e C capaz de calcular todos os pares de caminhos mínimos(APSP) em um grafo ponderado.
-Avaliar o desempenho da versão GPU em comparação com uma versão sequencial em CPU.
-Realizar experimentos em uma máquina equipada com GPU NVIDIA com pelo menos 16 GB de memória
+1. Implementar uma aplicação em CUDA e C capaz de calcular todos os pares de caminhos mínimos(APSP) em um grafo ponderado.
+2. Avaliar o desempenho da versão GPU em comparação com uma versão sequencial em CPU.
+3. Realizar experimentos em uma máquina equipada com GPU NVIDIA com pelo menos 16 GB de memória
 
 como rodar T3
 
